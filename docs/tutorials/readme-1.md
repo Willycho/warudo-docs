@@ -7,7 +7,7 @@ sidebar_position: 10
 
 ## Basic Setup
 
-First, when you open Warudo, you should see two windows: the **main window** and the **editor window**.
+처음으로, when you open Warudo, you should see two windows: the **main window** and the **editor window**.
 
 ![](/doc-img/en-getting-started-1.png)
 <p class="img-desc">Main window.</p>
